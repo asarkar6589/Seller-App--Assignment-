@@ -1,0 +1,133 @@
+
+[
+        {
+            "name": "Toyota RAV4",
+            "year": 2021,
+            "people": 4,
+            "type": "Hybrid",
+            "milaje": "6.1km / 1-liter",
+            "gear": "automatic",
+            "price": 440,
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1883&q=80"
+        },
+        
+        {
+            "name": "BMW 3 Series",
+            "year": 2019,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "8.2km / 1-liter",
+            "gear": "automatic",
+            "price": 350,
+            "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        },
+    
+        {
+            "name": "Volkswagen T-Cross",
+            "year": 2020,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "5.3km / 1-liter",
+            "gear": "automatic",
+            "price": 400,
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "Cadillac Escalade",
+            "year": 2020,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "7.7km / 1-liter",
+            "gear": "automatic",
+            "price": 440,
+            "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "BMW 4 Series GTI",
+            "year": 2021,
+            "people": 4,
+            "type": "Hybrid",
+            "milaje": "7.6km / 1-liter",
+            "gear": "automatic",
+            "price": 530,
+            "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "BMW 4 Series",
+            "year": 2019,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "7.2km / 1-liter",
+            "gear": "automatic",
+            "price": 490,
+            "image": "https://images.unsplash.com/photo-1555353540-64580b51c258?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "name": "Toyota RAV4",
+            "year": 2021,
+            "people": 4,
+            "type": "Hybrid",
+            "milaje": "6.1km / 1-liter",
+            "gear": "automatic",
+            "price": 440,
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1883&q=80"
+        },
+        
+        {
+            "name": "BMW 3 Series",
+            "year": 2019,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "8.2km / 1-liter",
+            "gear": "automatic",
+            "price": 350,
+            "image": "https://plus.unsplash.com/premium_photo-1664391822888-2a056656af71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "Ambasador",
+            "year": 2020,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "5.3km / 1-liter",
+            "gear": "automatic",
+            "price": 400,
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "Bugati",
+            "year": 2020,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "7.7km / 1-liter",
+            "gear": "automatic",
+            "price": 440,
+            "image": "https://images.unsplash.com/photo-1513036191774-b2badb8fcb76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "Mercedeze",
+            "year": 2021,
+            "people": 4,
+            "type": "Hybrid",
+            "milaje": "7.6km / 1-liter",
+            "gear": "automatic",
+            "price": 530,
+            "image": "https://images.unsplash.com/photo-1513036191774-b2badb8fcb76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        },
+    
+        {
+            "name": "XYZ",
+            "year": 2019,
+            "people": 4,
+            "type": "Gasoline",
+            "milaje": "7.2km / 1-liter",
+            "gear": "automatic",
+            "price": 490,
+            "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+        }
+]
