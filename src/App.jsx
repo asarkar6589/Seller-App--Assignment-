@@ -4,11 +4,6 @@ import { useEffect } from "react";
 
 function App() {
   const [searchParams, setSearchParams] = useSearchParams();
-
-  const x = () => {
-    setSearchParams({ myParam: "bobby_hadz" });
-  };
-
   useEffect(() => {
     setSearchParams({ page: 1 });
   }, []);
