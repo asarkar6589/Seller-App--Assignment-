@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 I have created this seller app using reactjs and tailwind css
+
+Create a dummy JSON Data
+
+Implemented pagination and search functionality.
